@@ -17,6 +17,6 @@ document.getElementById('btn-submite').addEventListener('click', function(){
         window.location.href ='bank.html';
     }
     else{
-       alert('duuur hoooo')
+       alert('duuur hoooo pagla')
     }
 })
